@@ -17,7 +17,7 @@ For Linux / Bash:
 
 ### Step 3. Install Dependencies
 Upgrade pip  
-`python.exe -m pip install --upgrade pip`
+`pip install --upgrade pip`
 
 Install from requirements.txt  
 `pip install -r requirements.txt`
