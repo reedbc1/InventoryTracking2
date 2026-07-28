@@ -4,3 +4,8 @@ ipykernel
 matplotlib
 scipy
 jinja2
+seaborn
+statsmodels
+scikit-learn
+pmdarima
+ruff
